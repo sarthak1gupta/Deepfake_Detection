@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision>=0.15.0
+timm>=0.6.0
+numpy>=1.21.0
+Pillow>=8.0.0
+opencv-python>=4.5.0
+scipy>=1.7.0
+PyWavelets>=1.2.0
+scikit-learn>=0.24.0
+face-recognition>=1.3.0
+dlib>=19.22.0
+mediapipe>=0.8.0
+tqdm>=4.62.0
+torch-geometric>=2.0.0 
